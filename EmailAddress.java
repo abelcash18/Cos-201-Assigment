@@ -1,4 +1,13 @@
 public class EmailAddress {
+    //   Chapter Six Task 1
+// Course code: COS Assignment 
+// Name: JOSEPH ABEL OLAYINKA
+// Student Id: UB2502252
+// Level: 200 Direct-Entry
+// Faculty: Faculty Of Computing
+// Deparment: Computer-Science
+// Date: 24-02-2026
+
     public static void main(String[] args) {
         java.util.Scanner scanner = new java.util.Scanner(System.in);
         
