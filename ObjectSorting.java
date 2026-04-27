@@ -6,7 +6,6 @@
 // Faculty: Faculty Of Computing
 // Deparment: Computer-Science
 // Date: 24-02-2026
-
 public class ObjectSorting {
     static class Student {
         int grade;
@@ -15,7 +14,6 @@ public class ObjectSorting {
             this.grade = grade;
         }
     }
-
     public static void main(String[] args) {
         Student[] students = {
             new Student(75),
